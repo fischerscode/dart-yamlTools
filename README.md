@@ -1,2 +1,2 @@
 # dart-yamlTools
- Some tools for making your yaml life easier.
+Some tools for making your yaml life easier.
